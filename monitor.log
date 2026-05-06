@@ -1,0 +1,1126 @@
+something
+===== SERVER MONITOR =====
+Time: Wed May  6 15:47:02 UTC 2026
+System Uptime:
+ 15:47:02 up  4:11,  1 user,  load average: 0.08, 0.06, 0.02
+Disk Usage: 1
+ALERT! DISK USAGE REACH SAFETY LIMIT
+Filesystem      Size  Used Avail Use% Mounted on
+none            3.9G     0  3.9G   0% /usr/lib/modules/6.6.87.2-microsoft-standard-WSL2
+none            3.9G  4.0K  3.9G   1% /mnt/wsl
+drivers         475G  117G  359G  25% /usr/lib/wsl/drivers
+/dev/sdd       1007G  4.5G  952G   1% /
+none            3.9G   80K  3.9G   1% /mnt/wslg
+none            3.9G     0  3.9G   0% /usr/lib/wsl/lib
+rootfs          3.9G  2.7M  3.9G   1% /init
+none            3.9G  636K  3.9G   1% /run
+none            3.9G     0  3.9G   0% /run/lock
+none            3.9G     0  3.9G   0% /run/shm
+none            3.9G   76K  3.9G   1% /mnt/wslg/versions.txt
+none            3.9G   76K  3.9G   1% /mnt/wslg/doc
+C:\             475G  117G  359G  25% /mnt/c
+tmpfs           782M   20K  781M   1% /run/user/1000
+Memory Usage:
+               total        used        free      shared  buff/cache   available
+Mem:            7810        1427        6164           3         376        6382
+Swap:           2048           0        2048
+===== END =====
+===== SERVER MONITOR =====
+Time: Wed May  6 15:47:40 UTC 2026
+System Uptime:
+ 15:47:40 up  4:11,  1 user,  load average: 0.20, 0.08, 0.02
+Memory Usage:
+               total        used        free      shared  buff/cache   available
+Mem:           7.6Gi       1.4Gi       6.0Gi       3.6Mi       376Mi       6.2Gi
+Swap:          2.0Gi          0B       2.0Gi
+===== END =====
+===== SERVER MONITOR =====
+Time: Wed May  6 15:48:27 UTC 2026
+System Uptime:
+ 15:48:27 up  4:12,  1 user,  load average: 0.16, 0.09, 0.03
+Memory Usage:
+               total        used        free      shared  buff/cache   available
+Mem:            7810        1426        6165           3         377        6383
+Swap:           2048           0        2048
+===== END =====
+===== SERVER MONITOR =====
+Time: Wed May  6 15:50:21 UTC 2026
+System Uptime:
+ 15:50:21 up  4:14,  1 user,  load average: 0.06, 0.07, 0.02
+Memory Usage:
+
+===== END =====
+===== SERVER MONITOR =====
+Time: Wed May  6 15:50:31 UTC 2026
+System Uptime:
+ 15:50:31 up  4:14,  1 user,  load average: 0.05, 0.07, 0.02
+Memory Usage:
+Mem:            7810        1422        6169           3         377        6388
+===== END =====
+===== SERVER MONITOR =====
+Time: Wed May  6 15:51:43 UTC 2026
+System Uptime:
+ 15:51:43 up  4:15,  1 user,  load average: 0.02, 0.05, 0.01
+Memory Usage:
+
+===== END =====
+===== SERVER MONITOR =====
+Time: Wed May  6 15:52:03 UTC 2026
+System Uptime:
+ 15:52:03 up  4:16,  1 user,  load average: 0.08, 0.06, 0.02
+Memory Usage:
+18
+===== END =====
+===== SERVER MONITOR =====
+Time: Wed May  6 15:57:48 UTC 2026
+System Uptime:
+ 15:57:48 up  4:21,  1 user,  load average: 0.05, 0.04, 0.00
+Disk Usage: 1
+ALERT! DISK USAGE REACH SAFETY LIMIT
+Filesystem      Size  Used Avail Use% Mounted on
+none            3.9G     0  3.9G   0% /usr/lib/modules/6.6.87.2-microsoft-standard-WSL2
+none            3.9G  4.0K  3.9G   1% /mnt/wsl
+drivers         475G  117G  359G  25% /usr/lib/wsl/drivers
+/dev/sdd       1007G  4.5G  952G   1% /
+none            3.9G   80K  3.9G   1% /mnt/wslg
+none            3.9G     0  3.9G   0% /usr/lib/wsl/lib
+rootfs          3.9G  2.7M  3.9G   1% /init
+none            3.9G  632K  3.9G   1% /run
+none            3.9G     0  3.9G   0% /run/lock
+none            3.9G     0  3.9G   0% /run/shm
+none            3.9G   76K  3.9G   1% /mnt/wslg/versions.txt
+none            3.9G   76K  3.9G   1% /mnt/wslg/doc
+C:\             475G  117G  359G  25% /mnt/c
+tmpfs           782M   20K  781M   1% /run/user/1000
+ALERT! MEMORY LIMIT EXCEEDED!
+Memory Usage:
+               total        used        free      shared  buff/cache   available
+Mem:            7810        1373        6258           3         336        6436
+Swap:           2048           0        2048
+===== END =====
+===== SERVER MONITOR =====
+===== SERVER MONITOR =====
+Time: Wed May  6 16:03:02 UTC 2026
+System Uptime:
+Time: Wed May  6 16:03:02 UTC 2026
+System Uptime:
+ 16:03:02 up  4:26,  1 user,  load average: 0.07, 0.06, 0.01
+ 16:03:02 up  4:26,  1 user,  load average: 0.07, 0.06, 0.01
+Disk Usage: 1
+ALERT! DISK USAGE REACH SAFETY LIMIT
+Disk Usage: 1
+ALERT! DISK USAGE REACH SAFETY LIMIT
+Filesystem      Size  Used Avail Use% Mounted on
+none            3.9G     0  3.9G   0% /usr/lib/modules/6.6.87.2-microsoft-standard-WSL2
+none            3.9G  4.0K  3.9G   1% /mnt/wsl
+drivers         475G  117G  359G  25% /usr/lib/wsl/drivers
+/dev/sdd       1007G  4.5G  952G   1% /
+none            3.9G   80K  3.9G   1% /mnt/wslg
+none            3.9G     0  3.9G   0% /usr/lib/wsl/lib
+rootfs          3.9G  2.7M  3.9G   1% /init
+none            3.9G  632K  3.9G   1% /run
+none            3.9G     0  3.9G   0% /run/lock
+none            3.9G     0  3.9G   0% /run/shm
+none            3.9G   76K  3.9G   1% /mnt/wslg/versions.txt
+none            3.9G   76K  3.9G   1% /mnt/wslg/doc
+C:\             475G  117G  359G  25% /mnt/c
+tmpfs           782M   20K  781M   1% /run/user/1000
+Filesystem      Size  Used Avail Use% Mounted on
+none            3.9G     0  3.9G   0% /usr/lib/modules/6.6.87.2-microsoft-standard-WSL2
+none            3.9G  4.0K  3.9G   1% /mnt/wsl
+drivers         475G  117G  359G  25% /usr/lib/wsl/drivers
+/dev/sdd       1007G  4.5G  952G   1% /
+none            3.9G   80K  3.9G   1% /mnt/wslg
+none            3.9G     0  3.9G   0% /usr/lib/wsl/lib
+rootfs          3.9G  2.7M  3.9G   1% /init
+none            3.9G  632K  3.9G   1% /run
+none            3.9G     0  3.9G   0% /run/lock
+none            3.9G     0  3.9G   0% /run/shm
+none            3.9G   76K  3.9G   1% /mnt/wslg/versions.txt
+none            3.9G   76K  3.9G   1% /mnt/wslg/doc
+C:\             475G  117G  359G  25% /mnt/c
+tmpfs           782M   20K  781M   1% /run/user/1000
+ALERT! MEMORY LIMIT EXCEEDED!
+Memory Usage:
+ALERT! MEMORY LIMIT EXCEEDED!
+Memory Usage:
+               total        used        free      shared  buff/cache   available
+Mem:            7810        1381        6243           3         343        6428
+Swap:           2048           0        2048
+               total        used        free      shared  buff/cache   available
+Mem:            7810        1381        6243           3         343        6428
+Swap:           2048           0        2048
+===== END =====
+===== END =====
+================================================ SERVER MONITOR ======================================
+================================================ SERVER MONITOR ======================================
+Time: Wed May  6 16:04:03 UTC 2026
+System Uptime:
+Time: Wed May  6 16:04:03 UTC 2026
+System Uptime:
+ 16:04:03 up  4:27,  1 user,  load average: 0.03, 0.05, 0.00
+ 16:04:03 up  4:27,  1 user,  load average: 0.03, 0.05, 0.00
+Disk Usage: 1
+ALERT! DISK USAGE REACH SAFETY LIMIT
+Disk Usage: 1
+ALERT! DISK USAGE REACH SAFETY LIMIT
+Filesystem      Size  Used Avail Use% Mounted on
+none            3.9G     0  3.9G   0% /usr/lib/modules/6.6.87.2-microsoft-standard-WSL2
+none            3.9G  4.0K  3.9G   1% /mnt/wsl
+drivers         475G  117G  359G  25% /usr/lib/wsl/drivers
+/dev/sdd       1007G  4.5G  952G   1% /
+none            3.9G   80K  3.9G   1% /mnt/wslg
+none            3.9G     0  3.9G   0% /usr/lib/wsl/lib
+rootfs          3.9G  2.7M  3.9G   1% /init
+none            3.9G  632K  3.9G   1% /run
+none            3.9G     0  3.9G   0% /run/lock
+none            3.9G     0  3.9G   0% /run/shm
+none            3.9G   76K  3.9G   1% /mnt/wslg/versions.txt
+none            3.9G   76K  3.9G   1% /mnt/wslg/doc
+C:\             475G  117G  359G  25% /mnt/c
+tmpfs           782M   20K  781M   1% /run/user/1000
+Filesystem      Size  Used Avail Use% Mounted on
+none            3.9G     0  3.9G   0% /usr/lib/modules/6.6.87.2-microsoft-standard-WSL2
+none            3.9G  4.0K  3.9G   1% /mnt/wsl
+drivers         475G  117G  359G  25% /usr/lib/wsl/drivers
+/dev/sdd       1007G  4.5G  952G   1% /
+none            3.9G   80K  3.9G   1% /mnt/wslg
+none            3.9G     0  3.9G   0% /usr/lib/wsl/lib
+rootfs          3.9G  2.7M  3.9G   1% /init
+none            3.9G  632K  3.9G   1% /run
+none            3.9G     0  3.9G   0% /run/lock
+none            3.9G     0  3.9G   0% /run/shm
+none            3.9G   76K  3.9G   1% /mnt/wslg/versions.txt
+none            3.9G   76K  3.9G   1% /mnt/wslg/doc
+C:\             475G  117G  359G  25% /mnt/c
+tmpfs           782M   20K  781M   1% /run/user/1000
+ALERT! MEMORY LIMIT EXCEEDED!
+Memory Usage:
+ALERT! MEMORY LIMIT EXCEEDED!
+Memory Usage:
+               total        used        free      shared  buff/cache   available
+Mem:            7810        1386        6202           3         380        6423
+Swap:           2048           0        2048
+               total        used        free      shared  buff/cache   available
+Mem:            7810        1386        6202           3         380        6423
+Swap:           2048           0        2048
+============================================== END ============================================================
+============================================== END ============================================================
+================================================ SERVER MONITOR ======================================
+================================================ SERVER MONITOR ======================================
+Time: Wed May  6 16:05:03 UTC 2026
+System Uptime:
+Time: Wed May  6 16:05:03 UTC 2026
+System Uptime:
+ 16:05:03 up  4:28,  1 user,  load average: 0.04, 0.05, 0.00
+ 16:05:03 up  4:28,  1 user,  load average: 0.04, 0.05, 0.00
+Disk Usage: 1
+Disk Usage: 1
+ALERT! DISK USAGE REACH SAFETY LIMIT
+ALERT! DISK USAGE REACH SAFETY LIMIT
+Filesystem      Size  Used Avail Use% Mounted on
+none            3.9G     0  3.9G   0% /usr/lib/modules/6.6.87.2-microsoft-standard-WSL2
+none            3.9G  4.0K  3.9G   1% /mnt/wsl
+drivers         475G  117G  359G  25% /usr/lib/wsl/drivers
+/dev/sdd       1007G  4.5G  952G   1% /
+none            3.9G   80K  3.9G   1% /mnt/wslg
+none            3.9G     0  3.9G   0% /usr/lib/wsl/lib
+rootfs          3.9G  2.7M  3.9G   1% /init
+none            3.9G  632K  3.9G   1% /run
+none            3.9G     0  3.9G   0% /run/lock
+none            3.9G     0  3.9G   0% /run/shm
+none            3.9G   76K  3.9G   1% /mnt/wslg/versions.txt
+none            3.9G   76K  3.9G   1% /mnt/wslg/doc
+C:\             475G  117G  359G  25% /mnt/c
+tmpfs           782M   20K  781M   1% /run/user/1000
+Filesystem      Size  Used Avail Use% Mounted on
+none            3.9G     0  3.9G   0% /usr/lib/modules/6.6.87.2-microsoft-standard-WSL2
+none            3.9G  4.0K  3.9G   1% /mnt/wsl
+drivers         475G  117G  359G  25% /usr/lib/wsl/drivers
+/dev/sdd       1007G  4.5G  952G   1% /
+none            3.9G   80K  3.9G   1% /mnt/wslg
+none            3.9G     0  3.9G   0% /usr/lib/wsl/lib
+rootfs          3.9G  2.7M  3.9G   1% /init
+none            3.9G  632K  3.9G   1% /run
+none            3.9G     0  3.9G   0% /run/lock
+none            3.9G     0  3.9G   0% /run/shm
+none            3.9G   76K  3.9G   1% /mnt/wslg/versions.txt
+none            3.9G   76K  3.9G   1% /mnt/wslg/doc
+C:\             475G  117G  359G  25% /mnt/c
+tmpfs           782M   20K  781M   1% /run/user/1000
+ALERT! MEMORY LIMIT EXCEEDED!
+Memory Usage:
+ALERT! MEMORY LIMIT EXCEEDED!
+Memory Usage:
+               total        used        free      shared  buff/cache   available
+Mem:            7810        1387        6254           3         326        6422
+Swap:           2048           0        2048
+               total        used        free      shared  buff/cache   available
+Mem:            7810        1387        6254           3         326        6422
+Swap:           2048           0        2048
+============================================== END ============================================================
+============================================== END ============================================================
+================================================ SERVER MONITOR ======================================
+Time: Wed May  6 16:06:02 UTC 2026
+System Uptime:
+================================================ SERVER MONITOR ======================================
+Time: Wed May  6 16:06:02 UTC 2026
+System Uptime:
+ 16:06:02 up  4:29,  1 user,  load average: 0.16, 0.07, 0.01
+ 16:06:02 up  4:29,  1 user,  load average: 0.16, 0.07, 0.01
+Disk Usage: 1
+ALERT! DISK USAGE REACH SAFETY LIMIT
+Disk Usage: 1
+ALERT! DISK USAGE REACH SAFETY LIMIT
+Filesystem      Size  Used Avail Use% Mounted on
+none            3.9G     0  3.9G   0% /usr/lib/modules/6.6.87.2-microsoft-standard-WSL2
+none            3.9G  4.0K  3.9G   1% /mnt/wsl
+drivers         475G  117G  359G  25% /usr/lib/wsl/drivers
+/dev/sdd       1007G  4.5G  952G   1% /
+none            3.9G   80K  3.9G   1% /mnt/wslg
+none            3.9G     0  3.9G   0% /usr/lib/wsl/lib
+rootfs          3.9G  2.7M  3.9G   1% /init
+none            3.9G  632K  3.9G   1% /run
+none            3.9G     0  3.9G   0% /run/lock
+none            3.9G     0  3.9G   0% /run/shm
+none            3.9G   76K  3.9G   1% /mnt/wslg/versions.txt
+none            3.9G   76K  3.9G   1% /mnt/wslg/doc
+C:\             475G  117G  359G  25% /mnt/c
+tmpfs           782M   20K  781M   1% /run/user/1000
+Filesystem      Size  Used Avail Use% Mounted on
+none            3.9G     0  3.9G   0% /usr/lib/modules/6.6.87.2-microsoft-standard-WSL2
+none            3.9G  4.0K  3.9G   1% /mnt/wsl
+drivers         475G  117G  359G  25% /usr/lib/wsl/drivers
+/dev/sdd       1007G  4.5G  952G   1% /
+none            3.9G   80K  3.9G   1% /mnt/wslg
+none            3.9G     0  3.9G   0% /usr/lib/wsl/lib
+rootfs          3.9G  2.7M  3.9G   1% /init
+none            3.9G  632K  3.9G   1% /run
+none            3.9G     0  3.9G   0% /run/lock
+none            3.9G     0  3.9G   0% /run/shm
+none            3.9G   76K  3.9G   1% /mnt/wslg/versions.txt
+none            3.9G   76K  3.9G   1% /mnt/wslg/doc
+C:\             475G  117G  359G  25% /mnt/c
+tmpfs           782M   20K  781M   1% /run/user/1000
+ALERT! MEMORY LIMIT EXCEEDED!
+Memory Usage:
+ALERT! MEMORY LIMIT EXCEEDED!
+Memory Usage:
+               total        used        free      shared  buff/cache   available
+Mem:            7810        1387        6254           3         327        6422
+Swap:           2048           0        2048
+               total        used        free      shared  buff/cache   available
+Mem:            7810        1387        6254           3         327        6422
+Swap:           2048           0        2048
+============================================== END ============================================================
+============================================== END ============================================================
+================================================ SERVER MONITOR ======================================
+================================================ SERVER MONITOR ======================================
+Time: Wed May  6 16:07:03 UTC 2026
+System Uptime:
+Time: Wed May  6 16:07:03 UTC 2026
+System Uptime:
+ 16:07:03 up  4:30,  1 user,  load average: 0.12, 0.07, 0.01
+ 16:07:03 up  4:30,  1 user,  load average: 0.12, 0.07, 0.01
+Disk Usage: 1
+ALERT! DISK USAGE REACH SAFETY LIMIT
+Disk Usage: 1
+ALERT! DISK USAGE REACH SAFETY LIMIT
+Filesystem      Size  Used Avail Use% Mounted on
+none            3.9G     0  3.9G   0% /usr/lib/modules/6.6.87.2-microsoft-standard-WSL2
+none            3.9G  4.0K  3.9G   1% /mnt/wsl
+drivers         475G  117G  359G  25% /usr/lib/wsl/drivers
+/dev/sdd       1007G  4.5G  952G   1% /
+none            3.9G   80K  3.9G   1% /mnt/wslg
+none            3.9G     0  3.9G   0% /usr/lib/wsl/lib
+rootfs          3.9G  2.7M  3.9G   1% /init
+none            3.9G  632K  3.9G   1% /run
+none            3.9G     0  3.9G   0% /run/lock
+none            3.9G     0  3.9G   0% /run/shm
+none            3.9G   76K  3.9G   1% /mnt/wslg/versions.txt
+none            3.9G   76K  3.9G   1% /mnt/wslg/doc
+C:\             475G  117G  359G  25% /mnt/c
+tmpfs           782M   20K  781M   1% /run/user/1000
+Filesystem      Size  Used Avail Use% Mounted on
+none            3.9G     0  3.9G   0% /usr/lib/modules/6.6.87.2-microsoft-standard-WSL2
+none            3.9G  4.0K  3.9G   1% /mnt/wsl
+drivers         475G  117G  359G  25% /usr/lib/wsl/drivers
+/dev/sdd       1007G  4.5G  952G   1% /
+none            3.9G   80K  3.9G   1% /mnt/wslg
+none            3.9G     0  3.9G   0% /usr/lib/wsl/lib
+rootfs          3.9G  2.7M  3.9G   1% /init
+none            3.9G  632K  3.9G   1% /run
+none            3.9G     0  3.9G   0% /run/lock
+none            3.9G     0  3.9G   0% /run/shm
+none            3.9G   76K  3.9G   1% /mnt/wslg/versions.txt
+none            3.9G   76K  3.9G   1% /mnt/wslg/doc
+C:\             475G  117G  359G  25% /mnt/c
+tmpfs           782M   20K  781M   1% /run/user/1000
+ALERT! MEMORY LIMIT EXCEEDED!
+Memory Usage:
+ALERT! MEMORY LIMIT EXCEEDED!
+Memory Usage:
+               total        used        free      shared  buff/cache   available
+Mem:            7810        1387        6254           3         327        6423
+Swap:           2048           0        2048
+               total        used        free      shared  buff/cache   available
+Mem:            7810        1387        6254           3         327        6423
+Swap:           2048           0        2048
+============================================== END ============================================================
+============================================== END ============================================================
+================================================ SERVER MONITOR ======================================
+================================================ SERVER MONITOR ======================================
+Time: Wed May  6 16:08:03 UTC 2026
+System Uptime:
+Time: Wed May  6 16:08:03 UTC 2026
+System Uptime:
+ 16:08:03 up  4:31,  1 user,  load average: 0.04, 0.06, 0.00
+ 16:08:03 up  4:31,  1 user,  load average: 0.04, 0.06, 0.00
+Disk Usage: 1
+Disk Usage: 1
+ALERT! DISK USAGE REACH SAFETY LIMIT
+ALERT! DISK USAGE REACH SAFETY LIMIT
+Filesystem      Size  Used Avail Use% Mounted on
+none            3.9G     0  3.9G   0% /usr/lib/modules/6.6.87.2-microsoft-standard-WSL2
+none            3.9G  4.0K  3.9G   1% /mnt/wsl
+drivers         475G  117G  359G  25% /usr/lib/wsl/drivers
+/dev/sdd       1007G  4.5G  952G   1% /
+none            3.9G   80K  3.9G   1% /mnt/wslg
+none            3.9G     0  3.9G   0% /usr/lib/wsl/lib
+rootfs          3.9G  2.7M  3.9G   1% /init
+none            3.9G  632K  3.9G   1% /run
+none            3.9G     0  3.9G   0% /run/lock
+none            3.9G     0  3.9G   0% /run/shm
+none            3.9G   76K  3.9G   1% /mnt/wslg/versions.txt
+none            3.9G   76K  3.9G   1% /mnt/wslg/doc
+C:\             475G  117G  359G  25% /mnt/c
+tmpfs           782M   20K  781M   1% /run/user/1000
+Filesystem      Size  Used Avail Use% Mounted on
+none            3.9G     0  3.9G   0% /usr/lib/modules/6.6.87.2-microsoft-standard-WSL2
+none            3.9G  4.0K  3.9G   1% /mnt/wsl
+drivers         475G  117G  359G  25% /usr/lib/wsl/drivers
+/dev/sdd       1007G  4.5G  952G   1% /
+none            3.9G   80K  3.9G   1% /mnt/wslg
+none            3.9G     0  3.9G   0% /usr/lib/wsl/lib
+rootfs          3.9G  2.7M  3.9G   1% /init
+none            3.9G  632K  3.9G   1% /run
+none            3.9G     0  3.9G   0% /run/lock
+none            3.9G     0  3.9G   0% /run/shm
+none            3.9G   76K  3.9G   1% /mnt/wslg/versions.txt
+none            3.9G   76K  3.9G   1% /mnt/wslg/doc
+C:\             475G  117G  359G  25% /mnt/c
+tmpfs           782M   20K  781M   1% /run/user/1000
+ALERT! MEMORY LIMIT EXCEEDED!
+Memory Usage:
+ALERT! MEMORY LIMIT EXCEEDED!
+Memory Usage:
+               total        used        free      shared  buff/cache   available
+Mem:            7810        1392        6248           3         327        6418
+Swap:           2048           0        2048
+               total        used        free      shared  buff/cache   available
+Mem:            7810        1392        6248           3         327        6418
+Swap:           2048           0        2048
+============================================== END ============================================================
+============================================== END ============================================================
+================================================ SERVER MONITOR ======================================
+================================================ SERVER MONITOR ======================================
+Time: Wed May  6 16:09:03 UTC 2026
+System Uptime:
+Time: Wed May  6 16:09:03 UTC 2026
+System Uptime:
+ 16:09:03 up  4:32,  1 user,  load average: 0.01, 0.04, 0.00
+ 16:09:03 up  4:32,  1 user,  load average: 0.01, 0.04, 0.00
+Disk Usage: 1
+ALERT! DISK USAGE REACH SAFETY LIMIT
+Disk Usage: 1
+ALERT! DISK USAGE REACH SAFETY LIMIT
+Filesystem      Size  Used Avail Use% Mounted on
+none            3.9G     0  3.9G   0% /usr/lib/modules/6.6.87.2-microsoft-standard-WSL2
+none            3.9G  4.0K  3.9G   1% /mnt/wsl
+drivers         475G  117G  359G  25% /usr/lib/wsl/drivers
+/dev/sdd       1007G  4.5G  952G   1% /
+none            3.9G   80K  3.9G   1% /mnt/wslg
+none            3.9G     0  3.9G   0% /usr/lib/wsl/lib
+rootfs          3.9G  2.7M  3.9G   1% /init
+none            3.9G  632K  3.9G   1% /run
+none            3.9G     0  3.9G   0% /run/lock
+none            3.9G     0  3.9G   0% /run/shm
+none            3.9G   76K  3.9G   1% /mnt/wslg/versions.txt
+none            3.9G   76K  3.9G   1% /mnt/wslg/doc
+C:\             475G  117G  359G  25% /mnt/c
+tmpfs           782M   20K  781M   1% /run/user/1000
+Filesystem      Size  Used Avail Use% Mounted on
+none            3.9G     0  3.9G   0% /usr/lib/modules/6.6.87.2-microsoft-standard-WSL2
+none            3.9G  4.0K  3.9G   1% /mnt/wsl
+drivers         475G  117G  359G  25% /usr/lib/wsl/drivers
+/dev/sdd       1007G  4.5G  952G   1% /
+none            3.9G   80K  3.9G   1% /mnt/wslg
+none            3.9G     0  3.9G   0% /usr/lib/wsl/lib
+rootfs          3.9G  2.7M  3.9G   1% /init
+none            3.9G  632K  3.9G   1% /run
+none            3.9G     0  3.9G   0% /run/lock
+none            3.9G     0  3.9G   0% /run/shm
+none            3.9G   76K  3.9G   1% /mnt/wslg/versions.txt
+none            3.9G   76K  3.9G   1% /mnt/wslg/doc
+C:\             475G  117G  359G  25% /mnt/c
+tmpfs           782M   20K  781M   1% /run/user/1000
+ALERT! MEMORY LIMIT EXCEEDED!
+Memory Usage:
+ALERT! MEMORY LIMIT EXCEEDED!
+Memory Usage:
+               total        used        free      shared  buff/cache   available
+Mem:            7810        1392        6246           3         329        6417
+Swap:           2048           0        2048
+               total        used        free      shared  buff/cache   available
+Mem:            7810        1392        6246           3         329        6417
+Swap:           2048           0        2048
+============================================== END ============================================================
+============================================== END ============================================================
+================================================ SERVER MONITOR ======================================
+================================================ SERVER MONITOR ======================================
+Time: Wed May  6 16:10:02 UTC 2026
+System Uptime:
+Time: Wed May  6 16:10:02 UTC 2026
+System Uptime:
+ 16:10:02 up  4:33,  1 user,  load average: 0.00, 0.03, 0.00
+ 16:10:02 up  4:33,  1 user,  load average: 0.00, 0.03, 0.00
+Disk Usage: 1
+Disk Usage: 1
+ALERT! DISK USAGE REACH SAFETY LIMIT
+ALERT! DISK USAGE REACH SAFETY LIMIT
+Filesystem      Size  Used Avail Use% Mounted on
+none            3.9G     0  3.9G   0% /usr/lib/modules/6.6.87.2-microsoft-standard-WSL2
+none            3.9G  4.0K  3.9G   1% /mnt/wsl
+drivers         475G  117G  359G  25% /usr/lib/wsl/drivers
+/dev/sdd       1007G  4.5G  952G   1% /
+none            3.9G   80K  3.9G   1% /mnt/wslg
+none            3.9G     0  3.9G   0% /usr/lib/wsl/lib
+rootfs          3.9G  2.7M  3.9G   1% /init
+none            3.9G  632K  3.9G   1% /run
+none            3.9G     0  3.9G   0% /run/lock
+none            3.9G     0  3.9G   0% /run/shm
+none            3.9G   76K  3.9G   1% /mnt/wslg/versions.txt
+none            3.9G   76K  3.9G   1% /mnt/wslg/doc
+C:\             475G  117G  359G  25% /mnt/c
+tmpfs           782M   20K  781M   1% /run/user/1000
+Filesystem      Size  Used Avail Use% Mounted on
+none            3.9G     0  3.9G   0% /usr/lib/modules/6.6.87.2-microsoft-standard-WSL2
+none            3.9G  4.0K  3.9G   1% /mnt/wsl
+drivers         475G  117G  359G  25% /usr/lib/wsl/drivers
+/dev/sdd       1007G  4.5G  952G   1% /
+none            3.9G   80K  3.9G   1% /mnt/wslg
+none            3.9G     0  3.9G   0% /usr/lib/wsl/lib
+rootfs          3.9G  2.7M  3.9G   1% /init
+none            3.9G  632K  3.9G   1% /run
+none            3.9G     0  3.9G   0% /run/lock
+none            3.9G     0  3.9G   0% /run/shm
+none            3.9G   76K  3.9G   1% /mnt/wslg/versions.txt
+none            3.9G   76K  3.9G   1% /mnt/wslg/doc
+C:\             475G  117G  359G  25% /mnt/c
+tmpfs           782M   20K  781M   1% /run/user/1000
+ALERT! MEMORY LIMIT EXCEEDED!
+Memory Usage:
+ALERT! MEMORY LIMIT EXCEEDED!
+Memory Usage:
+               total        used        free      shared  buff/cache   available
+Mem:            7810        1392        6251           3         324        6417
+Swap:           2048           0        2048
+               total        used        free      shared  buff/cache   available
+Mem:            7810        1392        6251           3         324        6417
+Swap:           2048           0        2048
+============================================== END ============================================================
+============================================== END ============================================================
+================================================ SERVER MONITOR ======================================
+================================================ SERVER MONITOR ======================================
+Time: Wed May  6 16:11:01 UTC 2026
+System Uptime:
+Time: Wed May  6 16:11:01 UTC 2026
+System Uptime:
+ 16:11:01 up  4:34,  1 user,  load average: 0.00, 0.03, 0.00
+ 16:11:01 up  4:34,  1 user,  load average: 0.00, 0.03, 0.00
+Disk Usage: 1
+ALERT! DISK USAGE REACH SAFETY LIMIT
+Disk Usage: 1
+ALERT! DISK USAGE REACH SAFETY LIMIT
+Filesystem      Size  Used Avail Use% Mounted on
+none            3.9G     0  3.9G   0% /usr/lib/modules/6.6.87.2-microsoft-standard-WSL2
+none            3.9G  4.0K  3.9G   1% /mnt/wsl
+drivers         475G  117G  359G  25% /usr/lib/wsl/drivers
+/dev/sdd       1007G  4.5G  952G   1% /
+none            3.9G   80K  3.9G   1% /mnt/wslg
+none            3.9G     0  3.9G   0% /usr/lib/wsl/lib
+rootfs          3.9G  2.7M  3.9G   1% /init
+none            3.9G  632K  3.9G   1% /run
+none            3.9G     0  3.9G   0% /run/lock
+none            3.9G     0  3.9G   0% /run/shm
+none            3.9G   76K  3.9G   1% /mnt/wslg/versions.txt
+none            3.9G   76K  3.9G   1% /mnt/wslg/doc
+C:\             475G  117G  359G  25% /mnt/c
+tmpfs           782M   20K  781M   1% /run/user/1000
+Filesystem      Size  Used Avail Use% Mounted on
+none            3.9G     0  3.9G   0% /usr/lib/modules/6.6.87.2-microsoft-standard-WSL2
+none            3.9G  4.0K  3.9G   1% /mnt/wsl
+drivers         475G  117G  359G  25% /usr/lib/wsl/drivers
+/dev/sdd       1007G  4.5G  952G   1% /
+none            3.9G   80K  3.9G   1% /mnt/wslg
+none            3.9G     0  3.9G   0% /usr/lib/wsl/lib
+rootfs          3.9G  2.7M  3.9G   1% /init
+none            3.9G  632K  3.9G   1% /run
+none            3.9G     0  3.9G   0% /run/lock
+none            3.9G     0  3.9G   0% /run/shm
+none            3.9G   76K  3.9G   1% /mnt/wslg/versions.txt
+none            3.9G   76K  3.9G   1% /mnt/wslg/doc
+C:\             475G  117G  359G  25% /mnt/c
+tmpfs           782M   20K  781M   1% /run/user/1000
+ALERT! MEMORY LIMIT EXCEEDED!
+Memory Usage:
+ALERT! MEMORY LIMIT EXCEEDED!
+Memory Usage:
+               total        used        free      shared  buff/cache   available
+Mem:            7810        1391        6249           3         328        6418
+Swap:           2048           0        2048
+               total        used        free      shared  buff/cache   available
+Mem:            7810        1391        6249           3         328        6418
+Swap:           2048           0        2048
+============================================== END ============================================================
+============================================== END ============================================================
+================================================ SERVER MONITOR ======================================
+================================================ SERVER MONITOR ======================================
+Time: Wed May  6 16:12:03 UTC 2026
+System Uptime:
+Time: Wed May  6 16:12:03 UTC 2026
+System Uptime:
+ 16:12:03 up  4:35,  1 user,  load average: 0.14, 0.06, 0.01
+ 16:12:03 up  4:35,  1 user,  load average: 0.14, 0.06, 0.01
+Disk Usage: 1
+ALERT! DISK USAGE REACH SAFETY LIMIT
+Disk Usage: 1
+ALERT! DISK USAGE REACH SAFETY LIMIT
+Filesystem      Size  Used Avail Use% Mounted on
+none            3.9G     0  3.9G   0% /usr/lib/modules/6.6.87.2-microsoft-standard-WSL2
+none            3.9G  4.0K  3.9G   1% /mnt/wsl
+drivers         475G  117G  359G  25% /usr/lib/wsl/drivers
+/dev/sdd       1007G  4.5G  952G   1% /
+none            3.9G   80K  3.9G   1% /mnt/wslg
+none            3.9G     0  3.9G   0% /usr/lib/wsl/lib
+rootfs          3.9G  2.7M  3.9G   1% /init
+none            3.9G  632K  3.9G   1% /run
+none            3.9G     0  3.9G   0% /run/lock
+none            3.9G     0  3.9G   0% /run/shm
+none            3.9G   76K  3.9G   1% /mnt/wslg/versions.txt
+none            3.9G   76K  3.9G   1% /mnt/wslg/doc
+C:\             475G  117G  359G  25% /mnt/c
+tmpfs           782M   20K  781M   1% /run/user/1000
+Filesystem      Size  Used Avail Use% Mounted on
+none            3.9G     0  3.9G   0% /usr/lib/modules/6.6.87.2-microsoft-standard-WSL2
+none            3.9G  4.0K  3.9G   1% /mnt/wsl
+drivers         475G  117G  359G  25% /usr/lib/wsl/drivers
+/dev/sdd       1007G  4.5G  952G   1% /
+none            3.9G   80K  3.9G   1% /mnt/wslg
+none            3.9G     0  3.9G   0% /usr/lib/wsl/lib
+rootfs          3.9G  2.7M  3.9G   1% /init
+none            3.9G  632K  3.9G   1% /run
+none            3.9G     0  3.9G   0% /run/lock
+none            3.9G     0  3.9G   0% /run/shm
+none            3.9G   76K  3.9G   1% /mnt/wslg/versions.txt
+none            3.9G   76K  3.9G   1% /mnt/wslg/doc
+C:\             475G  117G  359G  25% /mnt/c
+tmpfs           782M   20K  781M   1% /run/user/1000
+ALERT! MEMORY LIMIT EXCEEDED!
+Memory Usage:
+ALERT! MEMORY LIMIT EXCEEDED!
+Memory Usage:
+               total        used        free      shared  buff/cache   available
+Mem:            7810        1391        6225           3         352        6418
+Swap:           2048           0        2048
+               total        used        free      shared  buff/cache   available
+Mem:            7810        1391        6225           3         352        6418
+Swap:           2048           0        2048
+============================================== END ============================================================
+============================================== END ============================================================
+================================================ SERVER MONITOR ======================================
+================================================ SERVER MONITOR ======================================
+Time: Wed May  6 16:13:04 UTC 2026
+Time: Wed May  6 16:13:04 UTC 2026
+System Uptime:
+System Uptime:
+ 16:13:04 up  4:36,  1 user,  load average: 0.05, 0.05, 0.01
+ 16:13:04 up  4:36,  1 user,  load average: 0.05, 0.05, 0.01
+Disk Usage: 1
+Disk Usage: 1
+ALERT! DISK USAGE REACH SAFETY LIMIT
+ALERT! DISK USAGE REACH SAFETY LIMIT
+Filesystem      Size  Used Avail Use% Mounted on
+none            3.9G     0  3.9G   0% /usr/lib/modules/6.6.87.2-microsoft-standard-WSL2
+none            3.9G  4.0K  3.9G   1% /mnt/wsl
+drivers         475G  117G  359G  25% /usr/lib/wsl/drivers
+/dev/sdd       1007G  4.5G  952G   1% /
+none            3.9G   80K  3.9G   1% /mnt/wslg
+none            3.9G     0  3.9G   0% /usr/lib/wsl/lib
+rootfs          3.9G  2.7M  3.9G   1% /init
+none            3.9G  632K  3.9G   1% /run
+none            3.9G     0  3.9G   0% /run/lock
+none            3.9G     0  3.9G   0% /run/shm
+none            3.9G   76K  3.9G   1% /mnt/wslg/versions.txt
+none            3.9G   76K  3.9G   1% /mnt/wslg/doc
+C:\             475G  117G  359G  25% /mnt/c
+tmpfs           782M   20K  781M   1% /run/user/1000
+Filesystem      Size  Used Avail Use% Mounted on
+none            3.9G     0  3.9G   0% /usr/lib/modules/6.6.87.2-microsoft-standard-WSL2
+none            3.9G  4.0K  3.9G   1% /mnt/wsl
+drivers         475G  117G  359G  25% /usr/lib/wsl/drivers
+/dev/sdd       1007G  4.5G  952G   1% /
+none            3.9G   80K  3.9G   1% /mnt/wslg
+none            3.9G     0  3.9G   0% /usr/lib/wsl/lib
+rootfs          3.9G  2.7M  3.9G   1% /init
+none            3.9G  632K  3.9G   1% /run
+none            3.9G     0  3.9G   0% /run/lock
+none            3.9G     0  3.9G   0% /run/shm
+none            3.9G   76K  3.9G   1% /mnt/wslg/versions.txt
+none            3.9G   76K  3.9G   1% /mnt/wslg/doc
+C:\             475G  117G  359G  25% /mnt/c
+tmpfs           782M   20K  781M   1% /run/user/1000
+ALERT! MEMORY LIMIT EXCEEDED!
+Memory Usage:
+ALERT! MEMORY LIMIT EXCEEDED!
+Memory Usage:
+               total        used        free      shared  buff/cache   available
+Mem:            7810        1389        6227           3         352        6421
+Swap:           2048           0        2048
+               total        used        free      shared  buff/cache   available
+Mem:            7810        1389        6227           3         352        6421
+Swap:           2048           0        2048
+============================================== END ============================================================
+============================================== END ============================================================
+================================================ SERVER MONITOR ======================================
+================================================ SERVER MONITOR ======================================
+Time: Wed May  6 16:14:03 UTC 2026
+System Uptime:
+Time: Wed May  6 16:14:03 UTC 2026
+System Uptime:
+ 16:14:03 up  4:37,  1 user,  load average: 0.02, 0.04, 0.00
+ 16:14:03 up  4:37,  1 user,  load average: 0.02, 0.04, 0.00
+Disk Usage: 1
+ALERT! DISK USAGE REACH SAFETY LIMIT
+Disk Usage: 1
+ALERT! DISK USAGE REACH SAFETY LIMIT
+Filesystem      Size  Used Avail Use% Mounted on
+none            3.9G     0  3.9G   0% /usr/lib/modules/6.6.87.2-microsoft-standard-WSL2
+none            3.9G  4.0K  3.9G   1% /mnt/wsl
+drivers         475G  117G  359G  25% /usr/lib/wsl/drivers
+/dev/sdd       1007G  4.5G  952G   1% /
+none            3.9G   80K  3.9G   1% /mnt/wslg
+none            3.9G     0  3.9G   0% /usr/lib/wsl/lib
+rootfs          3.9G  2.7M  3.9G   1% /init
+none            3.9G  632K  3.9G   1% /run
+none            3.9G     0  3.9G   0% /run/lock
+none            3.9G     0  3.9G   0% /run/shm
+none            3.9G   76K  3.9G   1% /mnt/wslg/versions.txt
+none            3.9G   76K  3.9G   1% /mnt/wslg/doc
+C:\             475G  117G  359G  25% /mnt/c
+tmpfs           782M   20K  781M   1% /run/user/1000
+Filesystem      Size  Used Avail Use% Mounted on
+none            3.9G     0  3.9G   0% /usr/lib/modules/6.6.87.2-microsoft-standard-WSL2
+none            3.9G  4.0K  3.9G   1% /mnt/wsl
+drivers         475G  117G  359G  25% /usr/lib/wsl/drivers
+/dev/sdd       1007G  4.5G  952G   1% /
+none            3.9G   80K  3.9G   1% /mnt/wslg
+none            3.9G     0  3.9G   0% /usr/lib/wsl/lib
+rootfs          3.9G  2.7M  3.9G   1% /init
+none            3.9G  632K  3.9G   1% /run
+none            3.9G     0  3.9G   0% /run/lock
+none            3.9G     0  3.9G   0% /run/shm
+none            3.9G   76K  3.9G   1% /mnt/wslg/versions.txt
+none            3.9G   76K  3.9G   1% /mnt/wslg/doc
+C:\             475G  117G  359G  25% /mnt/c
+tmpfs           782M   20K  781M   1% /run/user/1000
+ALERT! MEMORY LIMIT EXCEEDED!
+Memory Usage:
+ALERT! MEMORY LIMIT EXCEEDED!
+Memory Usage:
+               total        used        free      shared  buff/cache   available
+Mem:            7810        1391        6224           3         352        6418
+Swap:           2048           0        2048
+               total        used        free      shared  buff/cache   available
+Mem:            7810        1391        6224           3         352        6418
+Swap:           2048           0        2048
+============================================== END ============================================================
+============================================== END ============================================================
+================================================ SERVER MONITOR ======================================
+================================================ SERVER MONITOR ======================================
+Time: Wed May  6 16:15:03 UTC 2026
+System Uptime:
+Time: Wed May  6 16:15:03 UTC 2026
+System Uptime:
+ 16:15:03 up  4:38,  1 user,  load average: 0.00, 0.03, 0.00
+ 16:15:03 up  4:38,  1 user,  load average: 0.00, 0.03, 0.00
+Disk Usage: 1
+ALERT! DISK USAGE REACH SAFETY LIMIT
+Disk Usage: 1
+ALERT! DISK USAGE REACH SAFETY LIMIT
+Filesystem      Size  Used Avail Use% Mounted on
+none            3.9G     0  3.9G   0% /usr/lib/modules/6.6.87.2-microsoft-standard-WSL2
+none            3.9G  4.0K  3.9G   1% /mnt/wsl
+drivers         475G  117G  359G  25% /usr/lib/wsl/drivers
+/dev/sdd       1007G  4.5G  952G   1% /
+none            3.9G   80K  3.9G   1% /mnt/wslg
+none            3.9G     0  3.9G   0% /usr/lib/wsl/lib
+rootfs          3.9G  2.7M  3.9G   1% /init
+none            3.9G  632K  3.9G   1% /run
+none            3.9G     0  3.9G   0% /run/lock
+none            3.9G     0  3.9G   0% /run/shm
+none            3.9G   76K  3.9G   1% /mnt/wslg/versions.txt
+none            3.9G   76K  3.9G   1% /mnt/wslg/doc
+C:\             475G  117G  359G  25% /mnt/c
+tmpfs           782M   20K  781M   1% /run/user/1000
+Filesystem      Size  Used Avail Use% Mounted on
+none            3.9G     0  3.9G   0% /usr/lib/modules/6.6.87.2-microsoft-standard-WSL2
+none            3.9G  4.0K  3.9G   1% /mnt/wsl
+drivers         475G  117G  359G  25% /usr/lib/wsl/drivers
+/dev/sdd       1007G  4.5G  952G   1% /
+none            3.9G   80K  3.9G   1% /mnt/wslg
+none            3.9G     0  3.9G   0% /usr/lib/wsl/lib
+rootfs          3.9G  2.7M  3.9G   1% /init
+none            3.9G  632K  3.9G   1% /run
+none            3.9G     0  3.9G   0% /run/lock
+none            3.9G     0  3.9G   0% /run/shm
+none            3.9G   76K  3.9G   1% /mnt/wslg/versions.txt
+none            3.9G   76K  3.9G   1% /mnt/wslg/doc
+C:\             475G  117G  359G  25% /mnt/c
+tmpfs           782M   20K  781M   1% /run/user/1000
+ALERT! MEMORY LIMIT EXCEEDED!
+Memory Usage:
+ALERT! MEMORY LIMIT EXCEEDED!
+Memory Usage:
+               total        used        free      shared  buff/cache   available
+Mem:            7810        1397        6218           3         352        6412
+Swap:           2048           0        2048
+               total        used        free      shared  buff/cache   available
+Mem:            7810        1397        6218           3         352        6412
+Swap:           2048           0        2048
+============================================== END ============================================================
+============================================== END ============================================================
+================================================ SERVER MONITOR ======================================
+================================================ SERVER MONITOR ======================================
+Time: Wed May  6 16:16:04 UTC 2026
+System Uptime:
+Time: Wed May  6 16:16:04 UTC 2026
+System Uptime:
+ 16:16:04 up  4:39,  1 user,  load average: 0.00, 0.02, 0.00
+ 16:16:04 up  4:39,  1 user,  load average: 0.00, 0.02, 0.00
+Disk Usage: 1
+ALERT! DISK USAGE REACH SAFETY LIMIT
+Disk Usage: 1
+ALERT! DISK USAGE REACH SAFETY LIMIT
+Filesystem      Size  Used Avail Use% Mounted on
+none            3.9G     0  3.9G   0% /usr/lib/modules/6.6.87.2-microsoft-standard-WSL2
+none            3.9G  4.0K  3.9G   1% /mnt/wsl
+drivers         475G  117G  359G  25% /usr/lib/wsl/drivers
+/dev/sdd       1007G  4.5G  952G   1% /
+none            3.9G   80K  3.9G   1% /mnt/wslg
+none            3.9G     0  3.9G   0% /usr/lib/wsl/lib
+rootfs          3.9G  2.7M  3.9G   1% /init
+none            3.9G  632K  3.9G   1% /run
+none            3.9G     0  3.9G   0% /run/lock
+none            3.9G     0  3.9G   0% /run/shm
+none            3.9G   76K  3.9G   1% /mnt/wslg/versions.txt
+none            3.9G   76K  3.9G   1% /mnt/wslg/doc
+C:\             475G  117G  359G  25% /mnt/c
+tmpfs           782M   20K  781M   1% /run/user/1000
+Filesystem      Size  Used Avail Use% Mounted on
+none            3.9G     0  3.9G   0% /usr/lib/modules/6.6.87.2-microsoft-standard-WSL2
+none            3.9G  4.0K  3.9G   1% /mnt/wsl
+drivers         475G  117G  359G  25% /usr/lib/wsl/drivers
+/dev/sdd       1007G  4.5G  952G   1% /
+none            3.9G   80K  3.9G   1% /mnt/wslg
+none            3.9G     0  3.9G   0% /usr/lib/wsl/lib
+rootfs          3.9G  2.7M  3.9G   1% /init
+none            3.9G  632K  3.9G   1% /run
+none            3.9G     0  3.9G   0% /run/lock
+none            3.9G     0  3.9G   0% /run/shm
+none            3.9G   76K  3.9G   1% /mnt/wslg/versions.txt
+none            3.9G   76K  3.9G   1% /mnt/wslg/doc
+C:\             475G  117G  359G  25% /mnt/c
+tmpfs           782M   20K  781M   1% /run/user/1000
+ALERT! MEMORY LIMIT EXCEEDED!
+Memory Usage:
+ALERT! MEMORY LIMIT EXCEEDED!
+Memory Usage:
+               total        used        free      shared  buff/cache   available
+Mem:            7810        1398        6217           3         352        6411
+Swap:           2048           0        2048
+               total        used        free      shared  buff/cache   available
+Mem:            7810        1398        6217           3         352        6411
+Swap:           2048           0        2048
+============================================== END ============================================================
+============================================== END ============================================================
+================================================ SERVER MONITOR ======================================
+================================================ SERVER MONITOR ======================================
+Time: Wed May  6 16:17:02 UTC 2026
+System Uptime:
+Time: Wed May  6 16:17:02 UTC 2026
+System Uptime:
+ 16:17:02 up  4:40,  1 user,  load average: 0.05, 0.03, 0.00
+ 16:17:02 up  4:40,  1 user,  load average: 0.05, 0.03, 0.00
+Disk Usage: 1
+ALERT! DISK USAGE REACH SAFETY LIMIT
+Disk Usage: 1
+ALERT! DISK USAGE REACH SAFETY LIMIT
+Filesystem      Size  Used Avail Use% Mounted on
+none            3.9G     0  3.9G   0% /usr/lib/modules/6.6.87.2-microsoft-standard-WSL2
+none            3.9G  4.0K  3.9G   1% /mnt/wsl
+drivers         475G  117G  359G  25% /usr/lib/wsl/drivers
+/dev/sdd       1007G  4.5G  952G   1% /
+none            3.9G   80K  3.9G   1% /mnt/wslg
+none            3.9G     0  3.9G   0% /usr/lib/wsl/lib
+rootfs          3.9G  2.7M  3.9G   1% /init
+none            3.9G  636K  3.9G   1% /run
+none            3.9G     0  3.9G   0% /run/lock
+none            3.9G     0  3.9G   0% /run/shm
+none            3.9G   76K  3.9G   1% /mnt/wslg/versions.txt
+none            3.9G   76K  3.9G   1% /mnt/wslg/doc
+C:\             475G  117G  359G  25% /mnt/c
+tmpfs           782M   20K  781M   1% /run/user/1000
+Filesystem      Size  Used Avail Use% Mounted on
+none            3.9G     0  3.9G   0% /usr/lib/modules/6.6.87.2-microsoft-standard-WSL2
+none            3.9G  4.0K  3.9G   1% /mnt/wsl
+drivers         475G  117G  359G  25% /usr/lib/wsl/drivers
+/dev/sdd       1007G  4.5G  952G   1% /
+none            3.9G   80K  3.9G   1% /mnt/wslg
+none            3.9G     0  3.9G   0% /usr/lib/wsl/lib
+rootfs          3.9G  2.7M  3.9G   1% /init
+none            3.9G  636K  3.9G   1% /run
+none            3.9G     0  3.9G   0% /run/lock
+none            3.9G     0  3.9G   0% /run/shm
+none            3.9G   76K  3.9G   1% /mnt/wslg/versions.txt
+none            3.9G   76K  3.9G   1% /mnt/wslg/doc
+C:\             475G  117G  359G  25% /mnt/c
+tmpfs           782M   20K  781M   1% /run/user/1000
+ALERT! MEMORY LIMIT EXCEEDED!
+Memory Usage:
+ALERT! MEMORY LIMIT EXCEEDED!
+Memory Usage:
+               total        used        free      shared  buff/cache   available
+Mem:            7810        1400        6191           3         376        6409
+Swap:           2048           0        2048
+               total        used        free      shared  buff/cache   available
+Mem:            7810        1400        6191           3         376        6409
+Swap:           2048           0        2048
+============================================== END ============================================================
+============================================== END ============================================================
+================================================ SERVER MONITOR ======================================
+================================================ SERVER MONITOR ======================================
+Time: Wed May  6 16:18:04 UTC 2026
+System Uptime:
+Time: Wed May  6 16:18:04 UTC 2026
+System Uptime:
+ 16:18:04 up  4:41,  1 user,  load average: 0.05, 0.04, 0.00
+ 16:18:04 up  4:41,  1 user,  load average: 0.05, 0.04, 0.00
+Disk Usage: 1
+ALERT! DISK USAGE REACH SAFETY LIMIT
+Disk Usage: 1
+ALERT! DISK USAGE REACH SAFETY LIMIT
+Filesystem      Size  Used Avail Use% Mounted on
+none            3.9G     0  3.9G   0% /usr/lib/modules/6.6.87.2-microsoft-standard-WSL2
+none            3.9G  4.0K  3.9G   1% /mnt/wsl
+drivers         475G  117G  359G  25% /usr/lib/wsl/drivers
+/dev/sdd       1007G  4.5G  952G   1% /
+none            3.9G   80K  3.9G   1% /mnt/wslg
+none            3.9G     0  3.9G   0% /usr/lib/wsl/lib
+rootfs          3.9G  2.7M  3.9G   1% /init
+none            3.9G  636K  3.9G   1% /run
+none            3.9G     0  3.9G   0% /run/lock
+none            3.9G     0  3.9G   0% /run/shm
+none            3.9G   76K  3.9G   1% /mnt/wslg/versions.txt
+none            3.9G   76K  3.9G   1% /mnt/wslg/doc
+C:\             475G  117G  359G  25% /mnt/c
+tmpfs           782M   20K  781M   1% /run/user/1000
+Filesystem      Size  Used Avail Use% Mounted on
+none            3.9G     0  3.9G   0% /usr/lib/modules/6.6.87.2-microsoft-standard-WSL2
+none            3.9G  4.0K  3.9G   1% /mnt/wsl
+drivers         475G  117G  359G  25% /usr/lib/wsl/drivers
+/dev/sdd       1007G  4.5G  952G   1% /
+none            3.9G   80K  3.9G   1% /mnt/wslg
+none            3.9G     0  3.9G   0% /usr/lib/wsl/lib
+rootfs          3.9G  2.7M  3.9G   1% /init
+none            3.9G  636K  3.9G   1% /run
+none            3.9G     0  3.9G   0% /run/lock
+none            3.9G     0  3.9G   0% /run/shm
+none            3.9G   76K  3.9G   1% /mnt/wslg/versions.txt
+none            3.9G   76K  3.9G   1% /mnt/wslg/doc
+C:\             475G  117G  359G  25% /mnt/c
+tmpfs           782M   20K  781M   1% /run/user/1000
+ALERT! MEMORY LIMIT EXCEEDED!
+Memory Usage:
+ALERT! MEMORY LIMIT EXCEEDED!
+Memory Usage:
+               total        used        free      shared  buff/cache   available
+Mem:            7810        1398        6193           3         377        6412
+Swap:           2048           0        2048
+               total        used        free      shared  buff/cache   available
+Mem:            7810        1398        6193           3         377        6412
+Swap:           2048           0        2048
+============================================== END ============================================================
+============================================== END ============================================================
+================================================ SERVER MONITOR ======================================
+================================================ SERVER MONITOR ======================================
+Time: Wed May  6 16:19:03 UTC 2026
+System Uptime:
+Time: Wed May  6 16:19:03 UTC 2026
+System Uptime:
+ 16:19:03 up  4:42,  1 user,  load average: 0.02, 0.03, 0.00
+ 16:19:03 up  4:42,  1 user,  load average: 0.02, 0.03, 0.00
+Disk Usage: 1
+ALERT! DISK USAGE REACH SAFETY LIMIT
+Disk Usage: 1
+ALERT! DISK USAGE REACH SAFETY LIMIT
+Filesystem      Size  Used Avail Use% Mounted on
+none            3.9G     0  3.9G   0% /usr/lib/modules/6.6.87.2-microsoft-standard-WSL2
+none            3.9G  4.0K  3.9G   1% /mnt/wsl
+drivers         475G  117G  359G  25% /usr/lib/wsl/drivers
+/dev/sdd       1007G  4.5G  952G   1% /
+none            3.9G   80K  3.9G   1% /mnt/wslg
+none            3.9G     0  3.9G   0% /usr/lib/wsl/lib
+rootfs          3.9G  2.7M  3.9G   1% /init
+none            3.9G  636K  3.9G   1% /run
+none            3.9G     0  3.9G   0% /run/lock
+none            3.9G     0  3.9G   0% /run/shm
+none            3.9G   76K  3.9G   1% /mnt/wslg/versions.txt
+none            3.9G   76K  3.9G   1% /mnt/wslg/doc
+C:\             475G  117G  359G  25% /mnt/c
+tmpfs           782M   20K  781M   1% /run/user/1000
+Filesystem      Size  Used Avail Use% Mounted on
+none            3.9G     0  3.9G   0% /usr/lib/modules/6.6.87.2-microsoft-standard-WSL2
+none            3.9G  4.0K  3.9G   1% /mnt/wsl
+drivers         475G  117G  359G  25% /usr/lib/wsl/drivers
+/dev/sdd       1007G  4.5G  952G   1% /
+none            3.9G   80K  3.9G   1% /mnt/wslg
+none            3.9G     0  3.9G   0% /usr/lib/wsl/lib
+rootfs          3.9G  2.7M  3.9G   1% /init
+none            3.9G  636K  3.9G   1% /run
+none            3.9G     0  3.9G   0% /run/lock
+none            3.9G     0  3.9G   0% /run/shm
+none            3.9G   76K  3.9G   1% /mnt/wslg/versions.txt
+none            3.9G   76K  3.9G   1% /mnt/wslg/doc
+C:\             475G  117G  359G  25% /mnt/c
+tmpfs           782M   20K  781M   1% /run/user/1000
+ALERT! MEMORY LIMIT EXCEEDED!
+Memory Usage:
+ALERT! MEMORY LIMIT EXCEEDED!
+Memory Usage:
+               total        used        free      shared  buff/cache   available
+Mem:            7810        1401        6233           3         333        6408
+Swap:           2048           0        2048
+               total        used        free      shared  buff/cache   available
+Mem:            7810        1401        6233           3         333        6408
+Swap:           2048           0        2048
+============================================== END ============================================================
+============================================== END ============================================================
+================================================ SERVER MONITOR ======================================
+================================================ SERVER MONITOR ======================================
+Time: Wed May  6 16:20:04 UTC 2026
+System Uptime:
+Time: Wed May  6 16:20:04 UTC 2026
+System Uptime:
+ 16:20:04 up  4:43,  1 user,  load average: 0.00, 0.02, 0.00
+ 16:20:04 up  4:43,  1 user,  load average: 0.00, 0.02, 0.00
+Disk Usage: 1
+ALERT! DISK USAGE REACH SAFETY LIMIT
+Disk Usage: 1
+ALERT! DISK USAGE REACH SAFETY LIMIT
+Filesystem      Size  Used Avail Use% Mounted on
+none            3.9G     0  3.9G   0% /usr/lib/modules/6.6.87.2-microsoft-standard-WSL2
+none            3.9G  4.0K  3.9G   1% /mnt/wsl
+drivers         475G  117G  359G  25% /usr/lib/wsl/drivers
+/dev/sdd       1007G  4.5G  952G   1% /
+none            3.9G   80K  3.9G   1% /mnt/wslg
+none            3.9G     0  3.9G   0% /usr/lib/wsl/lib
+rootfs          3.9G  2.7M  3.9G   1% /init
+none            3.9G  636K  3.9G   1% /run
+none            3.9G     0  3.9G   0% /run/lock
+none            3.9G     0  3.9G   0% /run/shm
+none            3.9G   76K  3.9G   1% /mnt/wslg/versions.txt
+none            3.9G   76K  3.9G   1% /mnt/wslg/doc
+C:\             475G  117G  359G  25% /mnt/c
+tmpfs           782M   20K  781M   1% /run/user/1000
+Filesystem      Size  Used Avail Use% Mounted on
+none            3.9G     0  3.9G   0% /usr/lib/modules/6.6.87.2-microsoft-standard-WSL2
+none            3.9G  4.0K  3.9G   1% /mnt/wsl
+drivers         475G  117G  359G  25% /usr/lib/wsl/drivers
+/dev/sdd       1007G  4.5G  952G   1% /
+none            3.9G   80K  3.9G   1% /mnt/wslg
+none            3.9G     0  3.9G   0% /usr/lib/wsl/lib
+rootfs          3.9G  2.7M  3.9G   1% /init
+none            3.9G  636K  3.9G   1% /run
+none            3.9G     0  3.9G   0% /run/lock
+none            3.9G     0  3.9G   0% /run/shm
+none            3.9G   76K  3.9G   1% /mnt/wslg/versions.txt
+none            3.9G   76K  3.9G   1% /mnt/wslg/doc
+C:\             475G  117G  359G  25% /mnt/c
+tmpfs           782M   20K  781M   1% /run/user/1000
+ALERT! MEMORY LIMIT EXCEEDED!
+Memory Usage:
+ALERT! MEMORY LIMIT EXCEEDED!
+Memory Usage:
+               total        used        free      shared  buff/cache   available
+Mem:            7810        1406        6223           3         338        6403
+Swap:           2048           0        2048
+               total        used        free      shared  buff/cache   available
+Mem:            7810        1406        6223           3         338        6403
+Swap:           2048           0        2048
+============================================== END ============================================================
+============================================== END ============================================================
+================================================ SERVER MONITOR ======================================
+================================================ SERVER MONITOR ======================================
+Time: Wed May  6 16:21:02 UTC 2026
+System Uptime:
+Time: Wed May  6 16:21:02 UTC 2026
+System Uptime:
+ 16:21:02 up  4:44,  1 user,  load average: 0.06, 0.03, 0.00
+ 16:21:02 up  4:44,  1 user,  load average: 0.06, 0.03, 0.00
+Disk Usage: 1
+ALERT! DISK USAGE REACH SAFETY LIMIT
+Disk Usage: 1
+ALERT! DISK USAGE REACH SAFETY LIMIT
+Filesystem      Size  Used Avail Use% Mounted on
+none            3.9G     0  3.9G   0% /usr/lib/modules/6.6.87.2-microsoft-standard-WSL2
+none            3.9G  4.0K  3.9G   1% /mnt/wsl
+drivers         475G  117G  359G  25% /usr/lib/wsl/drivers
+/dev/sdd       1007G  4.5G  952G   1% /
+none            3.9G   80K  3.9G   1% /mnt/wslg
+none            3.9G     0  3.9G   0% /usr/lib/wsl/lib
+rootfs          3.9G  2.7M  3.9G   1% /init
+none            3.9G  636K  3.9G   1% /run
+none            3.9G     0  3.9G   0% /run/lock
+none            3.9G     0  3.9G   0% /run/shm
+none            3.9G   76K  3.9G   1% /mnt/wslg/versions.txt
+none            3.9G   76K  3.9G   1% /mnt/wslg/doc
+C:\             475G  117G  359G  25% /mnt/c
+tmpfs           782M   20K  781M   1% /run/user/1000
+Filesystem      Size  Used Avail Use% Mounted on
+none            3.9G     0  3.9G   0% /usr/lib/modules/6.6.87.2-microsoft-standard-WSL2
+none            3.9G  4.0K  3.9G   1% /mnt/wsl
+drivers         475G  117G  359G  25% /usr/lib/wsl/drivers
+/dev/sdd       1007G  4.5G  952G   1% /
+none            3.9G   80K  3.9G   1% /mnt/wslg
+none            3.9G     0  3.9G   0% /usr/lib/wsl/lib
+rootfs          3.9G  2.7M  3.9G   1% /init
+none            3.9G  636K  3.9G   1% /run
+none            3.9G     0  3.9G   0% /run/lock
+none            3.9G     0  3.9G   0% /run/shm
+none            3.9G   76K  3.9G   1% /mnt/wslg/versions.txt
+none            3.9G   76K  3.9G   1% /mnt/wslg/doc
+C:\             475G  117G  359G  25% /mnt/c
+tmpfs           782M   20K  781M   1% /run/user/1000
+ALERT! MEMORY LIMIT EXCEEDED!
+Memory Usage:
+ALERT! MEMORY LIMIT EXCEEDED!
+Memory Usage:
+               total        used        free      shared  buff/cache   available
+Mem:            7810        1422        6194           3         352        6388
+Swap:           2048           0        2048
+               total        used        free      shared  buff/cache   available
+Mem:            7810        1422        6194           3         352        6388
+Swap:           2048           0        2048
+============================================== END ============================================================
+============================================== END ============================================================
